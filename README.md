@@ -1,6 +1,6 @@
 # TVC Director · TVC 广告创意导演技能说明
 
-把产品 brief 变成可直接投产的 **Nano Banana Pro 关键帧提示词** 和 **Seedance / 即梦视频提示词**——从创意提案、视觉定调、前期筹备到分镜与拍摄的完整导演工作流。
+把产品 brief 变成可直接投产的 **Nano Banana Pro、GPT Image2、Seedream 5.0pro关键帧提示词** 和 **Seedance2.0/Seedance2.5/Minimax H3视频提示词**——从创意提案、视觉定调、前期筹备到分镜与拍摄的完整导演工作流。
 
 ## 适用场景
 
